@@ -7,7 +7,7 @@ public class DiscountService {
 
         if (classGrade == Grade.BASIC) {
             discountPercent = 10;
-        } else if (classGrade == Grade.GOID) {
+        } else if (classGrade == Grade.GOLD) {
             discountPercent = 20;
         } else if (classGrade == Grade.DIAMOND) {
             discountPercent = 30;

@@ -1,7 +1,6 @@
-package enumeration.ex3;
+package enumeration.ref2;
 
-
-public class EnumEx3_1 {
+public class EnumRefMain2_1 {
 
     public static void main(String[] args) {
         int price = 10000;
